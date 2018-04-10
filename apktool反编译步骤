@@ -1,0 +1,4 @@
+按照note.md文件下载完成apktool.jar和apktool.bat，再开始按照如下步骤开始反编译apk
+当完成以上步骤之后,我们 window +R－＞打开 cmd 窗口
+
+1.运行 apktool 命令 出现了 apktool 的版本号和指导的命令
