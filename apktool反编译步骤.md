@@ -2,7 +2,7 @@
 当完成以上步骤之后,我们 window +R－＞打开 cmd 窗口
 
 1.运行 apktool 命令 出现了 apktool 的版本号和指导的命令
-![image](https://github.com/mywaver/ApkDecompile/blob/master/Screenshots/apktoolcmd.png)
+![image](Screenshots/apktoolcmd.png)
 2.随便找来一个 apk ,尝试反编译一下,运行 apktool d -f c:\test.apk -o c:\test 命令,把 test.apk 反编译,反编译后的文件放入 c 盘下的 test 文件中
 
 
